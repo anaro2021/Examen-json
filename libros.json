@@ -1,0 +1,44 @@
+{
+        "lista-libros":
+        [
+
+        {
+            "id-libros":"AAB88",
+            "nombre": "todo es eventual",
+            "autor": "stepphen king",
+            "Precio": 12.00,
+            "Comentario:":"Da mucho miedo"
+        },
+          
+          
+        {
+            "id-libros":"AAB89",
+            "nombre": "cien años de soledad",
+            "autor": "Gabriel Garcia Marquez",
+            "Precio": 13.50,
+            "Comentario":"muy tranquilo"
+        },
+    
+        {
+            "id-libros":"AAB90",
+            "titulo": "El reino del dragon de oro",
+            "autor": "Isabel Allende",
+            "Precio": 12.00,
+            "Comentario":"muy entretemido"
+        },
+        {
+            "id-libros":"AAB91",
+            "titulo":"Aprediento C++",
+            "autor":"Anomino",
+            "Precio":21.00,
+            "Comentario":"Muy practico y interesante"
+        },
+        {
+            "id-libros":"AAB92",
+            "titulo":"Aprediento java",
+            "autor":"Anomino",
+            "Precio":23.50,
+            "Comentario":"Muy practico y interesante"
+        }
+        ]
+    }
